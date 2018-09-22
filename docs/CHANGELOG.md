@@ -5,6 +5,7 @@ v0.3.4
 - Removed Deprecations:
     - Changed className()- to class-function
     - Changed arrays to short version []
+- Added: Settings for skipping creator of announcement in read by-list.
 
 v0.3.3
 ----------------------
