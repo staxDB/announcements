@@ -11,5 +11,5 @@ return [
     'Notify all Space Members if an announcement has been closed or reopened.' => 'Avertir les membres lorsqu\'une annonce est clôturée ou réouverte.',
     'Notify all Space Members if an announcement has been created.' => 'Avertir les membres lorsqu\'une annonce est créée.',
     'Notify all Space Members if an announcement has been updated.' => 'Avertir les membres lorsqu\'une annonce est mise à jour.',
-    'Notify all Space Members if an announcement statistics has been reset.' => 'Avenir les membres lorsque les statisques d\'une annonce sont remises à zéro.',
+    'Notify all Space Members if an announcement statistics has been reset.' => 'Avertir les membres lorsque les statisques d\'une annonce sont remises à zéro.',
 ];
